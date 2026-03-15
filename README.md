@@ -12,7 +12,7 @@ tech:
   - "Font Awesome Icons"
   - "JavaScript"
   - "HTML & CSS"
-live_url: "https://your-live-url.com"
+live_url: "https://books.munyira.co.ke/"
 github_url: "https://github.com/jmunyira1/School_Library_System"
 featured: false
 active: true
